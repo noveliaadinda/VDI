@@ -4,13 +4,12 @@
 
 ### GOOD VISUALIZATION
 
-<figure>
-<img src="images/Screenshot%202024-09-19%20230459.png"
-alt="Good Visualization 1" />
-<figcaption aria-hidden="true">Good Visualization 1</figcaption>
-</figure>
 
-#### Judul Visualisasi : Diffusion of Innovations Model Visualisasi Data : Bell Curve
+![Screenshot 2024-09-19 230459](https://github.com/user-attachments/assets/2d0c5c17-0121-4076-a401-66d345a50208)
+#### GOOD VISUALIZATION 1
+
+#### Judul Visualisasi : Diffusion of Innovations 
+#### Model Visualisasi Data : Bell Curve
 
 Visualisasi pada gambar diatas merupakan contoh dalam kategori GOOD
 VISUALIZATION, yang memenuhi ke-4 prinsip visualisasi data yang baik.
@@ -37,14 +36,11 @@ menunjukkan persentase setiap kelompok.
 tidak mengandung bias yang signifikan. Konsep difusi inovasi adalah
 konsep umum yang berlaku untuk berbagai jenis inovasi dan populasi.
 
-<figure>
-<img
-src="images/What%20Is%20Data%20Visualization_%20Definition,%20Types,%20Tips,%20and%20Examples.jpeg"
-alt="Good Visualization 2" />
-<figcaption aria-hidden="true">Good Visualization 2</figcaption>
-</figure>
+![What Is Data Visualization_ Definition, Types, Tips, and Examples](https://github.com/user-attachments/assets/bd9e5d0d-14ef-4538-bc2c-14026b43f070)
+#### GOOD VISUALIZATION 2
 
-#### Judul Visualisasi : Gluten in America Model Visualisasi Data : Bar Chart
+#### Judul Visualisasi : Gluten in America 
+#### Model Visualisasi Data : Bar Chart
 
 Visualisasi pada gambar diatas merupakan contoh dalam kategori GOOD
 VISUALIZATION, yang telah memenuhi ke-4 prinsip visualisasi data yang
@@ -71,13 +67,11 @@ kesehatan.
 
 ### BAD VISUALIZATION
 
-<figure>
-<img src="images/Screenshot%202024-09-24%20112627-01.png"
-alt="Bad Visualization 1" />
-<figcaption aria-hidden="true">Bad Visualization 1</figcaption>
-</figure>
+![Screenshot 2024-09-24 112627](https://github.com/user-attachments/assets/72e739f4-5004-4c82-b63a-68be9811e298)
+#### BAD VISUALIZATION 1
 
-#### Judul Visualisasi : Assessed valuation of all taxable property owned by Georgia Negroes Model Visualisasi Data : Pie Chart
+#### Judul Visualisasi : Assessed valuation of all taxable property owned by Georgia Negroes Model 
+#### Visualisasi Data : Pie Chart
 
 Visualisasi pada gambar diatas merupakan contoh dalam kategori BAD
 VISUALIZATION, yang tidak memenuhi ke-4 prinsip visualisasi data yang
@@ -105,14 +99,10 @@ gambar.
 berdasarkan ras tanpa konteks sosial dan historis lebih luas dapat
 memperkuat steryotype dan diskriminasi.
 
-<figure>
-<img
-src="images/Bad%20Infographics_%20The%20Worst%20Infographics%20of%202020%20-%20Venngage.jpeg"
-alt="Bad Visualization 2" />
-<figcaption aria-hidden="true">Bad Visualization 2</figcaption>
-</figure>
+![Bad Infographics_ The Worst Infographics of 2020 - Venngage](https://github.com/user-attachments/assets/1aa024ef-25c0-43cf-a3db-81af43cd08f5)
 
-#### Judul Visualisasi : - Model Visualisasi Data : Line Chart
+#### Judul Visualisasi : - 
+#### Model Visualisasi Data : Line Chart
 
 Visualisasi pada gambar diatas merupakan contoh dalam kategori BAD
 VISUALIZATION, yang tidak memenuhi ke-4 prinsip visualisasi data yang
